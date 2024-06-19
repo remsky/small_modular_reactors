@@ -26,11 +26,6 @@ pip install .
 - `tavily-python==0.3.3`
 - `ollama==0.2.1`
 - `python-dotenv==1.0.0`
-## Dependencies
-
-- `tavily-python==0.3.3`
-- `ollama==0.2.1`
-- `python-dotenv==1.0.0`
 
 ## Usage
 
