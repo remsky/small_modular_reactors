@@ -17,7 +17,7 @@ SMR allows developers to see what they're building and understand the flow of in
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/small-modular-reactors.git
+git clone https://github.com/remsky/small-modular-reactors.git
 cd small-modular-reactors
 pip install .
 ```
