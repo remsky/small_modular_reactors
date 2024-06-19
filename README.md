@@ -3,7 +3,7 @@
 
 Small Modular Reactors (SMR) is a lightweight and modular framework for building AI agents that can handle complex workflows.
 Designed specifically for use with a local Ollama install, it offers a more transparent agent construction process without unnecessary bloat.
-SMR allows developers to see what they're building and understand the flow of interactions between agents.
+SMR allows developers to see what they're building and understand the flow of interactions between micro-agents.
 
 ## Features
 
